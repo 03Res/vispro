@@ -1,0 +1,14 @@
+C:\Users\legion\source\repos\quiz1\quiz1\bin\Debug\net6.0\quiz1.exe
+C:\Users\legion\source\repos\quiz1\quiz1\bin\Debug\net6.0\quiz1.deps.json
+C:\Users\legion\source\repos\quiz1\quiz1\bin\Debug\net6.0\quiz1.runtimeconfig.json
+C:\Users\legion\source\repos\quiz1\quiz1\bin\Debug\net6.0\quiz1.dll
+C:\Users\legion\source\repos\quiz1\quiz1\bin\Debug\net6.0\quiz1.pdb
+C:\Users\legion\source\repos\quiz1\quiz1\obj\Debug\net6.0\quiz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\legion\source\repos\quiz1\quiz1\obj\Debug\net6.0\quiz1.AssemblyInfoInputs.cache
+C:\Users\legion\source\repos\quiz1\quiz1\obj\Debug\net6.0\quiz1.AssemblyInfo.cs
+C:\Users\legion\source\repos\quiz1\quiz1\obj\Debug\net6.0\quiz1.csproj.CoreCompileInputs.cache
+C:\Users\legion\source\repos\quiz1\quiz1\obj\Debug\net6.0\quiz1.dll
+C:\Users\legion\source\repos\quiz1\quiz1\obj\Debug\net6.0\refint\quiz1.dll
+C:\Users\legion\source\repos\quiz1\quiz1\obj\Debug\net6.0\quiz1.pdb
+C:\Users\legion\source\repos\quiz1\quiz1\obj\Debug\net6.0\quiz1.genruntimeconfig.cache
+C:\Users\legion\source\repos\quiz1\quiz1\obj\Debug\net6.0\ref\quiz1.dll

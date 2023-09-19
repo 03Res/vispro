@@ -1,0 +1,14 @@
+C:\Users\legion\source\repos\pertemuan6\pertemuan6\bin\Debug\net6.0\pertemuan6.exe
+C:\Users\legion\source\repos\pertemuan6\pertemuan6\bin\Debug\net6.0\pertemuan6.deps.json
+C:\Users\legion\source\repos\pertemuan6\pertemuan6\bin\Debug\net6.0\pertemuan6.runtimeconfig.json
+C:\Users\legion\source\repos\pertemuan6\pertemuan6\bin\Debug\net6.0\pertemuan6.dll
+C:\Users\legion\source\repos\pertemuan6\pertemuan6\bin\Debug\net6.0\pertemuan6.pdb
+C:\Users\legion\source\repos\pertemuan6\pertemuan6\obj\Debug\net6.0\pertemuan6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\legion\source\repos\pertemuan6\pertemuan6\obj\Debug\net6.0\pertemuan6.AssemblyInfoInputs.cache
+C:\Users\legion\source\repos\pertemuan6\pertemuan6\obj\Debug\net6.0\pertemuan6.AssemblyInfo.cs
+C:\Users\legion\source\repos\pertemuan6\pertemuan6\obj\Debug\net6.0\pertemuan6.csproj.CoreCompileInputs.cache
+C:\Users\legion\source\repos\pertemuan6\pertemuan6\obj\Debug\net6.0\pertemuan6.dll
+C:\Users\legion\source\repos\pertemuan6\pertemuan6\obj\Debug\net6.0\refint\pertemuan6.dll
+C:\Users\legion\source\repos\pertemuan6\pertemuan6\obj\Debug\net6.0\pertemuan6.pdb
+C:\Users\legion\source\repos\pertemuan6\pertemuan6\obj\Debug\net6.0\pertemuan6.genruntimeconfig.cache
+C:\Users\legion\source\repos\pertemuan6\pertemuan6\obj\Debug\net6.0\ref\pertemuan6.dll

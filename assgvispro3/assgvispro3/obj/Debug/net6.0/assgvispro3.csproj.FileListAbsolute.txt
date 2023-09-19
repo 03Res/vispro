@@ -1,0 +1,14 @@
+C:\Users\legion\source\repos\assgvispro3\assgvispro3\bin\Debug\net6.0\assgvispro3.exe
+C:\Users\legion\source\repos\assgvispro3\assgvispro3\bin\Debug\net6.0\assgvispro3.deps.json
+C:\Users\legion\source\repos\assgvispro3\assgvispro3\bin\Debug\net6.0\assgvispro3.runtimeconfig.json
+C:\Users\legion\source\repos\assgvispro3\assgvispro3\bin\Debug\net6.0\assgvispro3.dll
+C:\Users\legion\source\repos\assgvispro3\assgvispro3\bin\Debug\net6.0\assgvispro3.pdb
+C:\Users\legion\source\repos\assgvispro3\assgvispro3\obj\Debug\net6.0\assgvispro3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\legion\source\repos\assgvispro3\assgvispro3\obj\Debug\net6.0\assgvispro3.AssemblyInfoInputs.cache
+C:\Users\legion\source\repos\assgvispro3\assgvispro3\obj\Debug\net6.0\assgvispro3.AssemblyInfo.cs
+C:\Users\legion\source\repos\assgvispro3\assgvispro3\obj\Debug\net6.0\assgvispro3.csproj.CoreCompileInputs.cache
+C:\Users\legion\source\repos\assgvispro3\assgvispro3\obj\Debug\net6.0\assgvispro3.dll
+C:\Users\legion\source\repos\assgvispro3\assgvispro3\obj\Debug\net6.0\refint\assgvispro3.dll
+C:\Users\legion\source\repos\assgvispro3\assgvispro3\obj\Debug\net6.0\assgvispro3.pdb
+C:\Users\legion\source\repos\assgvispro3\assgvispro3\obj\Debug\net6.0\assgvispro3.genruntimeconfig.cache
+C:\Users\legion\source\repos\assgvispro3\assgvispro3\obj\Debug\net6.0\ref\assgvispro3.dll

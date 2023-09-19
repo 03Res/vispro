@@ -1,0 +1,14 @@
+C:\Users\legion\source\repos\tipe_data\tipe_data\obj\Debug\net6.0\tipe_data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\legion\source\repos\tipe_data\tipe_data\obj\Debug\net6.0\tipe_data.AssemblyInfoInputs.cache
+C:\Users\legion\source\repos\tipe_data\tipe_data\obj\Debug\net6.0\tipe_data.AssemblyInfo.cs
+C:\Users\legion\source\repos\tipe_data\tipe_data\obj\Debug\net6.0\tipe_data.csproj.CoreCompileInputs.cache
+C:\Users\legion\source\repos\tipe_data\tipe_data\bin\Debug\net6.0\tipe_data.exe
+C:\Users\legion\source\repos\tipe_data\tipe_data\bin\Debug\net6.0\tipe_data.deps.json
+C:\Users\legion\source\repos\tipe_data\tipe_data\bin\Debug\net6.0\tipe_data.runtimeconfig.json
+C:\Users\legion\source\repos\tipe_data\tipe_data\bin\Debug\net6.0\tipe_data.dll
+C:\Users\legion\source\repos\tipe_data\tipe_data\bin\Debug\net6.0\tipe_data.pdb
+C:\Users\legion\source\repos\tipe_data\tipe_data\obj\Debug\net6.0\tipe_data.dll
+C:\Users\legion\source\repos\tipe_data\tipe_data\obj\Debug\net6.0\refint\tipe_data.dll
+C:\Users\legion\source\repos\tipe_data\tipe_data\obj\Debug\net6.0\tipe_data.pdb
+C:\Users\legion\source\repos\tipe_data\tipe_data\obj\Debug\net6.0\tipe_data.genruntimeconfig.cache
+C:\Users\legion\source\repos\tipe_data\tipe_data\obj\Debug\net6.0\ref\tipe_data.dll

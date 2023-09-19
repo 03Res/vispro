@@ -1,0 +1,14 @@
+C:\Users\legion\source\repos\pertemuan_4_vispro\pertemuan_4_vispro\bin\Debug\net6.0\pertemuan_4_vispro.exe
+C:\Users\legion\source\repos\pertemuan_4_vispro\pertemuan_4_vispro\bin\Debug\net6.0\pertemuan_4_vispro.deps.json
+C:\Users\legion\source\repos\pertemuan_4_vispro\pertemuan_4_vispro\bin\Debug\net6.0\pertemuan_4_vispro.runtimeconfig.json
+C:\Users\legion\source\repos\pertemuan_4_vispro\pertemuan_4_vispro\bin\Debug\net6.0\pertemuan_4_vispro.dll
+C:\Users\legion\source\repos\pertemuan_4_vispro\pertemuan_4_vispro\bin\Debug\net6.0\pertemuan_4_vispro.pdb
+C:\Users\legion\source\repos\pertemuan_4_vispro\pertemuan_4_vispro\obj\Debug\net6.0\pertemuan_4_vispro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\legion\source\repos\pertemuan_4_vispro\pertemuan_4_vispro\obj\Debug\net6.0\pertemuan_4_vispro.AssemblyInfoInputs.cache
+C:\Users\legion\source\repos\pertemuan_4_vispro\pertemuan_4_vispro\obj\Debug\net6.0\pertemuan_4_vispro.AssemblyInfo.cs
+C:\Users\legion\source\repos\pertemuan_4_vispro\pertemuan_4_vispro\obj\Debug\net6.0\pertemuan_4_vispro.csproj.CoreCompileInputs.cache
+C:\Users\legion\source\repos\pertemuan_4_vispro\pertemuan_4_vispro\obj\Debug\net6.0\pertemuan_4_vispro.dll
+C:\Users\legion\source\repos\pertemuan_4_vispro\pertemuan_4_vispro\obj\Debug\net6.0\refint\pertemuan_4_vispro.dll
+C:\Users\legion\source\repos\pertemuan_4_vispro\pertemuan_4_vispro\obj\Debug\net6.0\pertemuan_4_vispro.pdb
+C:\Users\legion\source\repos\pertemuan_4_vispro\pertemuan_4_vispro\obj\Debug\net6.0\pertemuan_4_vispro.genruntimeconfig.cache
+C:\Users\legion\source\repos\pertemuan_4_vispro\pertemuan_4_vispro\obj\Debug\net6.0\ref\pertemuan_4_vispro.dll
