@@ -1,0 +1,10 @@
+C:\Users\legion\source\repos\formulir\formulir\bin\Debug\formulir.exe.config
+C:\Users\legion\source\repos\formulir\formulir\bin\Debug\formulir.exe
+C:\Users\legion\source\repos\formulir\formulir\bin\Debug\formulir.pdb
+C:\Users\legion\source\repos\formulir\formulir\obj\Debug\formulir.csproj.AssemblyReference.cache
+C:\Users\legion\source\repos\formulir\formulir\obj\Debug\formulir.Form1.resources
+C:\Users\legion\source\repos\formulir\formulir\obj\Debug\formulir.Properties.Resources.resources
+C:\Users\legion\source\repos\formulir\formulir\obj\Debug\formulir.csproj.GenerateResource.cache
+C:\Users\legion\source\repos\formulir\formulir\obj\Debug\formulir.csproj.CoreCompileInputs.cache
+C:\Users\legion\source\repos\formulir\formulir\obj\Debug\formulir.exe
+C:\Users\legion\source\repos\formulir\formulir\obj\Debug\formulir.pdb
